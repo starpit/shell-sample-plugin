@@ -1,7 +1,7 @@
 {
   "name": "shell-sample-plugin",
   "version": "1.0.0",
-  "description": "A sample plugin for the Shell",
+  "description": "A sample plugin for the IBM Cloud Functions Shell",
   "main": "plugin.js",
   "scripts": {
     "test": "cd ../tests && npm run test"
@@ -9,6 +9,7 @@
   "keywords": [
     "OpenWhisk",
     "shell",
+    "cloud-functions-shell.plugin",
     "sample",
     "example",
     "plugin"
